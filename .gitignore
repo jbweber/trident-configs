@@ -3,3 +3,4 @@ adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
 *.bkp
 /ShakeTune_results
+/config_backups
